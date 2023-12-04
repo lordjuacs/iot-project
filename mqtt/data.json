@@ -1,0 +1,682 @@
+[
+  {
+    "id": "lab-cs",
+    "ppmCO": 0,
+    "ppmCO2": 402.8712,
+    "ppmAlcohol": 1.33848,
+    "ppmAcetona": 0.47199,
+    "ppmNH4": 4.362388,
+    "ppmTolueno": 0.555405,
+    "time": 2700
+  },
+  {
+    "id": "lab-cs",
+    "ppmCO": 0,
+    "ppmCO2": 402.8712,
+    "ppmAlcohol": 1.33848,
+    "ppmAcetona": 0.47199,
+    "ppmNH4": 4.362388,
+    "ppmTolueno": 0.555405,
+    "time": 3824
+  },
+  {
+    "id": "lab-cs",
+    "ppmCO": 0,
+    "ppmCO2": 402.759,
+    "ppmAlcohol": 1.280483,
+    "ppmAcetona": 0.45035,
+    "ppmNH4": 4.214666,
+    "ppmTolueno": 0.529381,
+    "time": 4948
+  },
+  {
+    "id": "lab-cs",
+    "ppmCO": 0,
+    "ppmCO2": 402.8712,
+    "ppmAlcohol": 1.33848,
+    "ppmAcetona": 0.47199,
+    "ppmNH4": 4.362388,
+    "ppmTolueno": 0.555405,
+    "time": 6073
+  },
+  {
+    "id": "lab-cs",
+    "ppmCO": 0,
+    "ppmCO2": 402.759,
+    "ppmAlcohol": 1.280483,
+    "ppmAcetona": 0.45035,
+    "ppmNH4": 4.214666,
+    "ppmTolueno": 0.529381,
+    "time": 7197
+  },
+  {
+    "id": "lab-cs",
+    "ppmCO": 0,
+    "ppmCO2": 402.759,
+    "ppmAlcohol": 1.280483,
+    "ppmAcetona": 0.45035,
+    "ppmNH4": 4.214666,
+    "ppmTolueno": 0.529381,
+    "time": 8322
+  },
+  {
+    "id": "lab-cs",
+    "ppmCO": 0,
+    "ppmCO2": 402.759,
+    "ppmAlcohol": 1.280483,
+    "ppmAcetona": 0.45035,
+    "ppmNH4": 4.214666,
+    "ppmTolueno": 0.529381,
+    "time": 9446
+  },
+  {
+    "id": "lab-cs",
+    "ppmCO": 0,
+    "ppmCO2": 402.759,
+    "ppmAlcohol": 1.280483,
+    "ppmAcetona": 0.45035,
+    "ppmNH4": 4.214666,
+    "ppmTolueno": 0.529381,
+    "time": 10570
+  },
+  {
+    "id": "lab-cs",
+    "ppmCO": 0,
+    "ppmCO2": 402.8712,
+    "ppmAlcohol": 1.33848,
+    "ppmAcetona": 0.47199,
+    "ppmNH4": 4.362388,
+    "ppmTolueno": 0.555405,
+    "time": 11696
+  },
+  {
+    "id": "lab-cs",
+    "ppmCO": 0,
+    "ppmCO2": 402.8712,
+    "ppmAlcohol": 1.33848,
+    "ppmAcetona": 0.47199,
+    "ppmNH4": 4.362388,
+    "ppmTolueno": 0.555405,
+    "time": 12821
+  },
+  {
+    "id": "lab-cs",
+    "ppmCO": 0,
+    "ppmCO2": 402.759,
+    "ppmAlcohol": 1.280483,
+    "ppmAcetona": 0.45035,
+    "ppmNH4": 4.214666,
+    "ppmTolueno": 0.529381,
+    "time": 13946
+  },
+  {
+    "id": "lab-cs",
+    "ppmCO": 0,
+    "ppmCO2": 402.759,
+    "ppmAlcohol": 1.280483,
+    "ppmAcetona": 0.45035,
+    "ppmNH4": 4.214666,
+    "ppmTolueno": 0.529381,
+    "time": 15072
+  },
+  {
+    "id": "lab-cs",
+    "ppmCO": 0,
+    "ppmCO2": 402.759,
+    "ppmAlcohol": 1.280483,
+    "ppmAcetona": 0.45035,
+    "ppmNH4": 4.214666,
+    "ppmTolueno": 0.529381,
+    "time": 16197
+  },
+  {
+    "id": "lab-cs",
+    "ppmCO": 0,
+    "ppmCO2": 402.8712,
+    "ppmAlcohol": 1.33848,
+    "ppmAcetona": 0.47199,
+    "ppmNH4": 4.362388,
+    "ppmTolueno": 0.555405,
+    "time": 17323
+  },
+  {
+    "id": "lab-cs",
+    "ppmCO": 0,
+    "ppmCO2": 402.8712,
+    "ppmAlcohol": 1.33848,
+    "ppmAcetona": 0.47199,
+    "ppmNH4": 4.362388,
+    "ppmTolueno": 0.555405,
+    "time": 18448
+  },
+  {
+    "id": "lab-cs",
+    "ppmCO": 0,
+    "ppmCO2": 402.759,
+    "ppmAlcohol": 1.280483,
+    "ppmAcetona": 0.45035,
+    "ppmNH4": 4.214666,
+    "ppmTolueno": 0.529381,
+    "time": 19573
+  },
+  {
+    "id": "lab-cs",
+    "ppmCO": 0,
+    "ppmCO2": 402.759,
+    "ppmAlcohol": 1.280483,
+    "ppmAcetona": 0.45035,
+    "ppmNH4": 4.214666,
+    "ppmTolueno": 0.529381,
+    "time": 20699
+  },
+  {
+    "id": "lab-cs",
+    "ppmCO": 0,
+    "ppmCO2": 402.8712,
+    "ppmAlcohol": 1.33848,
+    "ppmAcetona": 0.47199,
+    "ppmNH4": 4.362388,
+    "ppmTolueno": 0.555405,
+    "time": 21824
+  },
+  {
+    "id": "lab-cs",
+    "ppmCO": 0,
+    "ppmCO2": 402.8712,
+    "ppmAlcohol": 1.33848,
+    "ppmAcetona": 0.47199,
+    "ppmNH4": 4.362388,
+    "ppmTolueno": 0.555405,
+    "time": 22949
+  },
+  {
+    "id": "lab-cs",
+    "ppmCO": 0,
+    "ppmCO2": 402.759,
+    "ppmAlcohol": 1.280483,
+    "ppmAcetona": 0.45035,
+    "ppmNH4": 4.214666,
+    "ppmTolueno": 0.529381,
+    "time": 24075
+  },
+  {
+    "id": "lab-cs",
+    "ppmCO": 0,
+    "ppmCO2": 402.8712,
+    "ppmAlcohol": 1.33848,
+    "ppmAcetona": 0.47199,
+    "ppmNH4": 4.362388,
+    "ppmTolueno": 0.555405,
+    "time": 25200
+  },
+  {
+    "id": "lab-cs",
+    "ppmCO": 0,
+    "ppmCO2": 402.8712,
+    "ppmAlcohol": 1.33848,
+    "ppmAcetona": 0.47199,
+    "ppmNH4": 4.362388,
+    "ppmTolueno": 0.555405,
+    "time": 26326
+  },
+  {
+    "id": "lab-cs",
+    "ppmCO": 0,
+    "ppmCO2": 402.8712,
+    "ppmAlcohol": 1.33848,
+    "ppmAcetona": 0.47199,
+    "ppmNH4": 4.362388,
+    "ppmTolueno": 0.555405,
+    "time": 27451
+  },
+  {
+    "id": "lab-cs",
+    "ppmCO": 0,
+    "ppmCO2": 402.759,
+    "ppmAlcohol": 1.280483,
+    "ppmAcetona": 0.45035,
+    "ppmNH4": 4.214666,
+    "ppmTolueno": 0.529381,
+    "time": 28576
+  },
+  {
+    "id": "lab-cs",
+    "ppmCO": 0,
+    "ppmCO2": 402.759,
+    "ppmAlcohol": 1.280483,
+    "ppmAcetona": 0.45035,
+    "ppmNH4": 4.214666,
+    "ppmTolueno": 0.529381,
+    "time": 29702
+  },
+  {
+    "id": "lab-cs",
+    "ppmCO": 0,
+    "ppmCO2": 402.759,
+    "ppmAlcohol": 1.280483,
+    "ppmAcetona": 0.45035,
+    "ppmNH4": 4.214666,
+    "ppmTolueno": 0.529381,
+    "time": 30827
+  },
+  {
+    "id": "lab-cs",
+    "ppmCO": 0,
+    "ppmCO2": 402.8712,
+    "ppmAlcohol": 1.33848,
+    "ppmAcetona": 0.47199,
+    "ppmNH4": 4.362388,
+    "ppmTolueno": 0.555405,
+    "time": 31952
+  },
+  {
+    "id": "lab-cs",
+    "ppmCO": 0,
+    "ppmCO2": 402.759,
+    "ppmAlcohol": 1.280483,
+    "ppmAcetona": 0.45035,
+    "ppmNH4": 4.214666,
+    "ppmTolueno": 0.529381,
+    "time": 33078
+  },
+  {
+    "id": "lab-cs",
+    "ppmCO": 0,
+    "ppmCO2": 402.759,
+    "ppmAlcohol": 1.280483,
+    "ppmAcetona": 0.45035,
+    "ppmNH4": 4.214666,
+    "ppmTolueno": 0.529381,
+    "time": 34203
+  },
+  {
+    "id": "lab-cs",
+    "ppmCO": 0,
+    "ppmCO2": 402.759,
+    "ppmAlcohol": 1.280483,
+    "ppmAcetona": 0.45035,
+    "ppmNH4": 4.214666,
+    "ppmTolueno": 0.529381,
+    "time": 35329
+  },
+  {
+    "id": "lab-cs",
+    "ppmCO": 0,
+    "ppmCO2": 402.759,
+    "ppmAlcohol": 1.280483,
+    "ppmAcetona": 0.45035,
+    "ppmNH4": 4.214666,
+    "ppmTolueno": 0.529381,
+    "time": 36454
+  },
+  {
+    "id": "lab-cs",
+    "ppmCO": 0,
+    "ppmCO2": 402.759,
+    "ppmAlcohol": 1.280483,
+    "ppmAcetona": 0.45035,
+    "ppmNH4": 4.214666,
+    "ppmTolueno": 0.529381,
+    "time": 37579
+  },
+  {
+    "id": "lab-cs",
+    "ppmCO": 0,
+    "ppmCO2": 402.759,
+    "ppmAlcohol": 1.280483,
+    "ppmAcetona": 0.45035,
+    "ppmNH4": 4.214666,
+    "ppmTolueno": 0.529381,
+    "time": 38705
+  },
+  {
+    "id": "lab-cs",
+    "ppmCO": 0,
+    "ppmCO2": 402.759,
+    "ppmAlcohol": 1.280483,
+    "ppmAcetona": 0.45035,
+    "ppmNH4": 4.214666,
+    "ppmTolueno": 0.529381,
+    "time": 39830
+  },
+  {
+    "id": "lab-cs",
+    "ppmCO": 0,
+    "ppmCO2": 404.578,
+    "ppmAlcohol": 2.247691,
+    "ppmAcetona": 0.817404,
+    "ppmNH4": 6.528262,
+    "ppmTolueno": 0.973857,
+    "time": 461542
+  },
+  {
+    "id": "lab-cs",
+    "ppmCO": 0,
+    "ppmCO2": 404.578,
+    "ppmAlcohol": 2.247691,
+    "ppmAcetona": 0.817404,
+    "ppmNH4": 6.528262,
+    "ppmTolueno": 0.973857,
+    "time": 462669
+  },
+  {
+    "id": "lab-cs",
+    "ppmCO": 0,
+    "ppmCO2": 404.578,
+    "ppmAlcohol": 2.247691,
+    "ppmAcetona": 0.817404,
+    "ppmNH4": 6.528262,
+    "ppmTolueno": 0.973857,
+    "time": 463797
+  },
+  {
+    "id": "lab-cs",
+    "ppmCO": 0,
+    "ppmCO2": 404.578,
+    "ppmAlcohol": 2.247691,
+    "ppmAcetona": 0.817404,
+    "ppmNH4": 6.528262,
+    "ppmTolueno": 0.973857,
+    "time": 464924
+  },
+  {
+    "id": "lab-cs",
+    "ppmCO": 0,
+    "ppmCO2": 404.578,
+    "ppmAlcohol": 2.247691,
+    "ppmAcetona": 0.817404,
+    "ppmNH4": 6.528262,
+    "ppmTolueno": 0.973857,
+    "time": 466052
+  },
+  {
+    "id": "lab-cs",
+    "ppmCO": 0,
+    "ppmCO2": 404.4097,
+    "ppmAlcohol": 2.156068,
+    "ppmAcetona": 0.782147,
+    "ppmNH4": 6.320358,
+    "ppmTolueno": 0.930925,
+    "time": 467179
+  },
+  {
+    "id": "lab-cs",
+    "ppmCO": 0,
+    "ppmCO2": 404.578,
+    "ppmAlcohol": 2.247691,
+    "ppmAcetona": 0.817404,
+    "ppmNH4": 6.528262,
+    "ppmTolueno": 0.973857,
+    "time": 468307
+  },
+  {
+    "id": "lab-cs",
+    "ppmCO": 0,
+    "ppmCO2": 404.578,
+    "ppmAlcohol": 2.247691,
+    "ppmAcetona": 0.817404,
+    "ppmNH4": 6.528262,
+    "ppmTolueno": 0.973857,
+    "time": 469435
+  },
+  {
+    "id": "lab-cs",
+    "ppmCO": 0,
+    "ppmCO2": 404.578,
+    "ppmAlcohol": 2.247691,
+    "ppmAcetona": 0.817404,
+    "ppmNH4": 6.528262,
+    "ppmTolueno": 0.973857,
+    "time": 470562
+  },
+  {
+    "id": "lab-cs",
+    "ppmCO": 0,
+    "ppmCO2": 404.578,
+    "ppmAlcohol": 2.247691,
+    "ppmAcetona": 0.817404,
+    "ppmNH4": 6.528262,
+    "ppmTolueno": 0.973857,
+    "time": 471691
+  },
+  {
+    "id": "lab-cs",
+    "ppmCO": 0,
+    "ppmCO2": 404.4097,
+    "ppmAlcohol": 2.156068,
+    "ppmAcetona": 0.782147,
+    "ppmNH4": 6.320358,
+    "ppmTolueno": 0.930925,
+    "time": 472818
+  },
+  {
+    "id": "lab-cs",
+    "ppmCO": 0,
+    "ppmCO2": 404.578,
+    "ppmAlcohol": 2.247691,
+    "ppmAcetona": 0.817404,
+    "ppmNH4": 6.528262,
+    "ppmTolueno": 0.973857,
+    "time": 473947
+  },
+  {
+    "id": "lab-cs",
+    "ppmCO": 0,
+    "ppmCO2": 404.578,
+    "ppmAlcohol": 2.247691,
+    "ppmAcetona": 0.817404,
+    "ppmNH4": 6.528262,
+    "ppmTolueno": 0.973857,
+    "time": 475074
+  },
+  {
+    "id": "lab-cs",
+    "ppmCO": 0,
+    "ppmCO2": 404.578,
+    "ppmAlcohol": 2.247691,
+    "ppmAcetona": 0.817404,
+    "ppmNH4": 6.528262,
+    "ppmTolueno": 0.973857,
+    "time": 476201
+  },
+  {
+    "id": "lab-cs",
+    "ppmCO": 0,
+    "ppmCO2": 404.578,
+    "ppmAlcohol": 2.247691,
+    "ppmAcetona": 0.817404,
+    "ppmNH4": 6.528262,
+    "ppmTolueno": 0.973857,
+    "time": 477329
+  },
+  {
+    "id": "lab-cs",
+    "ppmCO": 0,
+    "ppmCO2": 404.578,
+    "ppmAlcohol": 2.247691,
+    "ppmAcetona": 0.817404,
+    "ppmNH4": 6.528262,
+    "ppmTolueno": 0.973857,
+    "time": 478456
+  },
+  {
+    "id": "lab-cs",
+    "ppmCO": 0,
+    "ppmCO2": 404.578,
+    "ppmAlcohol": 2.247691,
+    "ppmAcetona": 0.817404,
+    "ppmNH4": 6.528262,
+    "ppmTolueno": 0.973857,
+    "time": 479584
+  },
+  {
+    "id": "lab-cs",
+    "ppmCO": 0,
+    "ppmCO2": 404.578,
+    "ppmAlcohol": 2.247691,
+    "ppmAcetona": 0.817404,
+    "ppmNH4": 6.528262,
+    "ppmTolueno": 0.973857,
+    "time": 480711
+  },
+  {
+    "id": "lab-cs",
+    "ppmCO": 0,
+    "ppmCO2": 404.578,
+    "ppmAlcohol": 2.247691,
+    "ppmAcetona": 0.817404,
+    "ppmNH4": 6.528262,
+    "ppmTolueno": 0.973857,
+    "time": 481839
+  },
+  {
+    "id": "lab-cs",
+    "ppmCO": 0,
+    "ppmCO2": 404.578,
+    "ppmAlcohol": 2.247691,
+    "ppmAcetona": 0.817404,
+    "ppmNH4": 6.528262,
+    "ppmTolueno": 0.973857,
+    "time": 482966
+  },
+  {
+    "id": "lab-cs",
+    "ppmCO": 0,
+    "ppmCO2": 404.578,
+    "ppmAlcohol": 2.247691,
+    "ppmAcetona": 0.817404,
+    "ppmNH4": 6.528262,
+    "ppmTolueno": 0.973857,
+    "time": 484093
+  },
+  {
+    "id": "lab-cs",
+    "ppmCO": 0,
+    "ppmCO2": 404.578,
+    "ppmAlcohol": 2.247691,
+    "ppmAcetona": 0.817404,
+    "ppmNH4": 6.528262,
+    "ppmTolueno": 0.973857,
+    "time": 485221
+  },
+  {
+    "id": "lab-cs",
+    "ppmCO": 0,
+    "ppmCO2": 404.578,
+    "ppmAlcohol": 2.247691,
+    "ppmAcetona": 0.817404,
+    "ppmNH4": 6.528262,
+    "ppmTolueno": 0.973857,
+    "time": 486348
+  },
+  {
+    "id": "lab-cs",
+    "ppmCO": 0,
+    "ppmCO2": 404.4097,
+    "ppmAlcohol": 2.156068,
+    "ppmAcetona": 0.782147,
+    "ppmNH4": 6.320358,
+    "ppmTolueno": 0.930925,
+    "time": 487477
+  },
+  {
+    "id": "lab-cs",
+    "ppmCO": 0,
+    "ppmCO2": 404.578,
+    "ppmAlcohol": 2.247691,
+    "ppmAcetona": 0.817404,
+    "ppmNH4": 6.528262,
+    "ppmTolueno": 0.973857,
+    "time": 488605
+  },
+  {
+    "id": "lab-cs",
+    "ppmCO": 0,
+    "ppmCO2": 404.578,
+    "ppmAlcohol": 2.247691,
+    "ppmAcetona": 0.817404,
+    "ppmNH4": 6.528262,
+    "ppmTolueno": 0.973857,
+    "time": 489733
+  },
+  {
+    "id": "lab-cs",
+    "ppmCO": 0,
+    "ppmCO2": 404.578,
+    "ppmAlcohol": 2.247691,
+    "ppmAcetona": 0.817404,
+    "ppmNH4": 6.528262,
+    "ppmTolueno": 0.973857,
+    "time": 490860
+  },
+  {
+    "id": "lab-cs",
+    "ppmCO": 0,
+    "ppmCO2": 404.578,
+    "ppmAlcohol": 2.247691,
+    "ppmAcetona": 0.817404,
+    "ppmNH4": 6.528262,
+    "ppmTolueno": 0.973857,
+    "time": 491987
+  },
+  {
+    "id": "lab-cs",
+    "ppmCO": 0,
+    "ppmCO2": 404.4097,
+    "ppmAlcohol": 2.156068,
+    "ppmAcetona": 0.782147,
+    "ppmNH4": 6.320358,
+    "ppmTolueno": 0.930925,
+    "time": 493115
+  },
+  {
+    "id": "lab-cs",
+    "ppmCO": 0,
+    "ppmCO2": 404.4097,
+    "ppmAlcohol": 2.156068,
+    "ppmAcetona": 0.782147,
+    "ppmNH4": 6.320358,
+    "ppmTolueno": 0.930925,
+    "time": 494243
+  },
+  {
+    "id": "lab-cs",
+    "ppmCO": 0,
+    "ppmCO2": 404.578,
+    "ppmAlcohol": 2.247691,
+    "ppmAcetona": 0.817404,
+    "ppmNH4": 6.528262,
+    "ppmTolueno": 0.973857,
+    "time": 495372
+  },
+  {
+    "id": "lab-cs",
+    "ppmCO": 0,
+    "ppmCO2": 404.578,
+    "ppmAlcohol": 2.247691,
+    "ppmAcetona": 0.817404,
+    "ppmNH4": 6.528262,
+    "ppmTolueno": 0.973857,
+    "time": 496499
+  },
+  {
+    "id": "lab-cs",
+    "ppmCO": 0,
+    "ppmCO2": 404.578,
+    "ppmAlcohol": 2.247691,
+    "ppmAcetona": 0.817404,
+    "ppmNH4": 6.528262,
+    "ppmTolueno": 0.973857,
+    "time": 497627
+  },
+  {
+    "id": "lab-cs",
+    "ppmCO": 0,
+    "ppmCO2": 404.578,
+    "ppmAlcohol": 2.247691,
+    "ppmAcetona": 0.817404,
+    "ppmNH4": 6.528262,
+    "ppmTolueno": 0.973857,
+    "time": 498754
+  }
+]
